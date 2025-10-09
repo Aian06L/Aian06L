@@ -12,7 +12,7 @@ Sou um desenvolvedor apaixonado por criar soluções inovadoras e impactantes. E
 - 🌱 Sempre aprendendo novas tecnologias
 - 👯 Procuro colaborar em projetos open source
 - 💬 Me pergunte sobre desenvolvimento web, mobile ou qualquer coisa tech
-- 📫 Como me encontrar: [suas redes sociais]
+- 📫 Como me encontrar: instagram - euaian__
 
 ## 🛠️ Tecnologias & Ferramentas
 
