@@ -56,7 +56,7 @@ Sou um desenvolvedor apaixonado por criar soluções inovadoras e impactantes. E
 ## 🏆 Conquistas GitHub
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ryo-ma&title=Stars,Followers" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark" alt="GitHub Trophies" />
 </div>
 
 ## 📈 Gráfico de Contribuições
